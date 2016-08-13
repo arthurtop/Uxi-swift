@@ -1,0 +1,25 @@
+platform :ios, ‘9.0’
+
+target ‘Uxi-swift’ do
+
+use_frameworks!
+pod 'Graphs', '~> 0.1.2'
+pod ‘Alamofire’
+pod ’SwiftyJSON’
+pod ’SQLite.swift’
+pod ’SugarRecord’
+pod ‘RAMAnimatedTabBarController’
+pod ‘LTMorphingLabel’
+pod ‘Cartography’
+pod ‘RxSwift’
+
+end
+
+
+
+
+
+
+
+
+
