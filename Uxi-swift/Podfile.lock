@@ -27,6 +27,7 @@ PODS:
     - RxSwift (~> 2.5)
   - RxSwift (2.5.0)
   - SQLite.swift (0.10.1)
+  - StyleKit (0.3.0)
   - SugarRecord (2.2.9):
     - SugarRecord/CoreData (= 2.2.9)
     - SugarRecord/CoreData+iCloud (= 2.2.9)
@@ -80,6 +81,7 @@ DEPENDENCIES:
   - RAMAnimatedTabBarController
   - RxSwift
   - SQLite.swift
+  - StyleKit (~> 0.3)
   - SugarRecord
   - SwiftyJSON
 
@@ -97,9 +99,10 @@ SPEC CHECKSUMS:
   RxCocoa: e1b1562e57a554d0fb2aabf9d71b637f177257c7
   RxSwift: 402b41a50e922a0368fc14cb3bc9f4427920e8ae
   SQLite.swift: 6a6e4b034efc317ce4e203b6af2d3024fee2b570
+  StyleKit: b2c47344cd0f389c0ceefa3a81d79509e092b10d
   SugarRecord: 2463fbe768633a2524ba505dfed5315167331c0a
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
-PODFILE CHECKSUM: 1b47dea594b3ee40de2545653a096ec71ad1aead
+PODFILE CHECKSUM: ea47fa41db79f3842ba83c688a36935c51fd8974
 
 COCOAPODS: 1.0.1

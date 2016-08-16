@@ -1,5 +1,9 @@
 platform :ios, ‘9.0’
 
+source 'https://github.com/146BC/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+
 target ‘Uxi-swift’ do
 
 use_frameworks!
@@ -12,6 +16,7 @@ pod ‘RAMAnimatedTabBarController’
 pod ‘LTMorphingLabel’
 pod ‘Cartography’
 pod ‘RxSwift’
+pod 'StyleKit', '~> 0.3'
 
 end
 
